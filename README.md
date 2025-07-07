@@ -2,7 +2,7 @@
 # Melanoma Skin-Cancer Detection  
 *Neural-Network Pipeline in Python – AUC 0.8693 *  
 
-![Kaggle Badge](https://img.shields.io/badge/Kaggle-Top_7%25-blue)  
+![Kaggle Badge](https://img.shields.io/badge/Kaggle-%25-blue)  
 
 ## 📑 Overview
 This repository contains the full, reproducible codebase for a convolutional-neural-network (CNN) that detects melanoma lesions in dermoscopic images.  
